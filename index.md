@@ -3,7 +3,7 @@ layout: cv
 title: YangChao's CV
 pdf: true
 ---
-## 杨超
+# 杨超
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
@@ -12,11 +12,11 @@ pdf: true
 <a href="yang-c15@mails.tsinghua.edu.cn" style="margin-left:0.5em">yang-c15@mails.tsinghua.edu.cn</a>
 </div>
 
-## Education
+## 教育经历
 
 ### __清华大学__ `2015.9 - 目前`
 ```
-New York, NY
+北京
 ```
 - B.S. in Computer Science
 - Major GPA: __4.0__, Cumulative GPA: __3.97__
