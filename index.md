@@ -4,8 +4,6 @@ title: YangChao's CV
 pdf: true
 ---
 <center><font color=gray size=72>杨超</font></center>
-# 杨超
-
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
 <a href="https://emigmo.github.io/yc-markdown-cv/" style="margin-left:0.5em">https://emigmo.github.io/yc-markdown-cv/</a>
