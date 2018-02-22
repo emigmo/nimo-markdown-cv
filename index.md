@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Nimo's CV
+title: YangChao's CV
 pdf: true
 ---
-# 杨超
+## 杨超
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://columbia.edu/~wn2155" style="margin-left:0.5em">columbia.edu/~wn2155</a>
+<a href="https://emigmo.github.io/yc-markdown-cv/" style="margin-left:0.5em">https://emigmo.github.io/yc-markdown-cv/</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="wn2155@columbia.edu" style="margin-left:0.5em">wn2155@columbia.edu</a>
+<a href="yang-c15@mails.tsinghua.edu.cn" style="margin-left:0.5em">yang-c15@mails.tsinghua.edu.cn</a>
 </div>
 
 ## Education
