@@ -14,7 +14,7 @@ pdf: true
 
 ## Education
 
-### __Columbia University__ `2016.9 - Present`
+### __清华大学__ `2015.9 - 目前`
 ```
 New York, NY
 ```
