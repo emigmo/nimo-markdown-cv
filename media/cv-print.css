@@ -55,7 +55,11 @@ body {
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: "Helvetica",sans-serif;
-	margin: 0.3in 0.2in 0.2in 0.3in
+	/* margin: 0.3in 0.2in 0.2in 0.3in*/
+    	margin-top: 20px;
+    	margin-bottom: 10px;
+    	margin-right: 20px;
+    	margin-left: 20px;
 	/* margin-top: 1em;
 	margin-left: 1em; */
 }
