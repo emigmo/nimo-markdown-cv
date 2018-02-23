@@ -29,13 +29,13 @@ pdf: true
 ## Publications
 
 ### __Dual-Modal Vision-based Tactile Sensor for Robotic Hand Grasping__
-    &Bin Fang*, Fuchun Sun, __Chao Yang__*, 2018 IEEE International Conference on Robotics and Automation (ICRA2018).
-
-### __A Stable and Efficient Vision-based Tactile Sensor with Tactile Detection using Neural Network__
-    __Chao Yang__, Fuchun Sun, Bin Fang, Luxuan Li, ICCSIP2016.
+Bin Fang\*, Fuchun Sun, __Chao Yang__\*, et al. ICRA2018.
 
 ### __Robotic grasping using visual and tactile sensing__
-    Di Guo, Fuchun Sun, __Chao Yang__, Information Sciences 417 (2017).
+Di Guo, Fuchun Sun, __Chao Yang__, et al. Information Sciences 2017.
+
+### __A Stable and Efficient Vision-based Tactile Sensor with Tactile Detection using Neural Network__
+__Chao Yang__, Fuchun Sun, Bin Fang, et al. ICCSIP2016.
 
 ## Experience
 
