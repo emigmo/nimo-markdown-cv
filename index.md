@@ -29,7 +29,7 @@ pdf: true
 ## Publications
 
 ### __Dual-Modal Vision-based Tactile Sensor for Robotic Hand Grasping__
-Bin Fang, Fuchun Sun, __Chao Yang__, 2018 IEEE International Conference on Robotics and Automation (ICRA2018).
+Bin Fang*, Fuchun Sun, __Chao Yang__*, 2018 IEEE International Conference on Robotics and Automation (ICRA2018).
 
 ### __A Stable and Efficient Vision-based Tactile Sensor with Tactile Detection using Neural Network__
 __Chao Yang__, Fuchun Sun, Bin Fang, Luxuan Li, ICCSIP2016.
@@ -40,7 +40,7 @@ Di Guo, Fuchun Sun, __Chao Yang__, ACM DL2017.
 ## Experience
 
 ### 清华大学计算机系 类脑计算与认知课题组 `2017.05 - 2018.03`
-    在这期间，从事机器臂，机械手的
+    在这期间，主要从事机器臂，机械手的拟人感知与操作控制，具体内容包括针对Baxter双臂机器人完成、UR5高精度机械臂完成
 ### 清华大学计算机系 类脑计算与认知课题组 `2016.03 - 2017.04`
 
 ### 四川大学电子信息学院 图像所 `2014.03 - 2015.04`
