@@ -35,42 +35,24 @@ Bin Fang*, Fuchun Sun, __Chao Yang__*, 2018 IEEE International Conference on Rob
 __Chao Yang__, Fuchun Sun, Bin Fang, Luxuan Li, ICCSIP2016.
 
 ### __Robotic grasping using visual and tactile sensing__
-Di Guo, Fuchun Sun, __Chao Yang__, ACM DL2017.
+Di Guo, Fuchun Sun, __Chao Yang__, Information Sciences 417 (2017).
 
 ## Experience
 
 ### 清华大学计算机系 类脑计算与认知课题组 `2017.05 - 2018.03`
-    在这期间，主要从事机器臂，机械手的拟人感知与操作控制，具体内容包括针对Baxter双臂机器人完成、UR5高精度机械臂完成
+    在这期间从事机器臂，机械手的拟人感知与操作控制，具体工作在Baxter双臂机器人、UR5高精度机械臂两台机械臂以及自主研发的五指灵巧手上完成验证。
+    主要研究深度强化学习在连续动作空间上的控制学习理论和在机器人操作感知场景下深度学习对视触觉信息的融合方法，同时完成多种基于深度学习的机器
+    人抓取分拣算法的设计，操作场景下物品的位姿估计、机器人模仿操作学习等课题。研制的五指灵巧手由本人演示亮相与CCTV-1《开讲啦》栏目。主要承担
+    科技委主动感知、清华-Intel机器人稳定抓取与操作和模仿操作学习等项目。
 ### 清华大学计算机系 类脑计算与认知课题组 `2016.03 - 2017.04`
-
+    在这期间从事机械手指尖跨模态微视觉触觉传感器的设计与应用，通过视觉模态信息模拟接触式操作场景下机械手指尖与被操作物体接触面的触觉信息，通过
+    自主研发的微视觉传感器感知操作过程中施加力的变化情况和被操作物体的表面纹理，完成对物体的材质识别和精细装配。相关成果发表在机器人顶级会议
+    ICRA等上。
 ### 四川大学电子信息学院 图像所 `2014.03 - 2015.04`
-
+    在此本科期间，与同学合作参加Intel国际嵌入式邀请赛，完成自动聚焦的生物光学显微镜的研制，设计一套针对血细胞样本的主动对焦算法获得国际三等奖，
+    参与全国电子设计大赛，设计的射频宽带放大电路获得了四川省一等奖的成绩，并成功以全系第一名的成绩推免清华大学计算机系读研。
 ## Honors & Awards
-    \entry{2017.09}
-    {The \textbf{Third} place}
-    {@IROS2017 in Canada}
-    {Robotic Grasping and Manipulation Competition}
-    \entry{2016.10}
-    {The \textbf{First} place}
-    {@IROS2016 in Korea}
-    {Robotic Grasping and Manipulation Competition}
-    \entry{2016.12}
-    {The mhi Corporation Scholarship}
-    {at Tsinghua University}
-    {}
-    \entry{2016.06}
-    {Rank of season 2 : 32/2810}
-    {in TianChi cainiao competition}
-    {}
-    \entry
-    {2012 - 2014}
-    {National Scholarship}
-    {at Sichuan University (awarded \textbf{3} times)}
-
-
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honor `DIckinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `DIckinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `DIckinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `DIckinson, 2013` <br>
+清华三菱重工奖学金 `清华大学, 2016.10` <br>
+IROS2016国际机器人抓取与操作比赛 全自主操作组 冠军 `韩国-大田, 2016.10` <br>
+天池菜鸟物流竞赛 32/2810名 `阿里, 2016.06` <br>
+本科期间每年获得国家奖学金 1/199  `四川大学, 2012-2014` <br>
