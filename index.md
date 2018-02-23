@@ -28,14 +28,11 @@ pdf: true
 - 本科  电子信息工程
 - 主修课程：自控原理，数据结构与算法分析，概率统计，数字电子技术，计算机通信与网络
 
-## Publications
+## 科研经历
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__]
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+### [__Dual-Modal Vision-based Tactile Sensor for Robotic Hand Grasping__]
+_Bin Fang, Fuchun Sun, __Chao Yang__ _<br> 
+_2018 IEEE International Conference on Robotics and Automation (ICRA2018)._<br>
 
 ### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
 __Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
