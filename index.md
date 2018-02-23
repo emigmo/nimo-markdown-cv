@@ -28,7 +28,7 @@ pdf: true
 
 ## Publications
 
-### __Dual-Modal Vision-based Tactile Sensor for Robotic Hand Grasping__
+### __A Dual-Modal Vision-based Tactile Sensor for Robotic Hand Grasping__
 Bin Fang\*, Fuchun Sun, __Chao Yang__\*, et al. ICRA2018.
 
 ### __Robotic grasping using visual and tactile sensing__
