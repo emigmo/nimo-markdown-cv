@@ -34,9 +34,11 @@ pdf: true
 Bin Fang, Fuchun Sun, __Chao Yang__<br> 
 2018 IEEE International Conference on Robotics and Automation (ICRA2018)._<br>
 
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
+### __A Stable and Efficient Vision-based Tactile Sensor with Tactile Detection using Neural Network__
+__Chao Yang__, Fuchun Sun, Bin Fang, Luxuan Li, ICCSIP2016.
+
+### __Robotic grasping using visual and tactile sensing__
+Di Guo, __Chao Yang__, ACM DL2017.
 
 ## Experience
 
