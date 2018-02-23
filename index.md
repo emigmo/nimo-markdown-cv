@@ -3,7 +3,7 @@ layout: cv
 title: YangChao's CV
 pdf: true
 ---
-# 杨超
+# __杨超__
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
@@ -41,17 +41,11 @@ Di Guo, Fuchun Sun, __Chao Yang__, ACM DL2017.
 
 ## Experience
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
-_Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics. The system, comprised of two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+### 清华大学计算机系 类脑计算与认知课题组 `2017.05 - 2018.03`
 
-### __Columbia Univeristy, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+### 清华大学计算机系 类脑计算与认知课题组 `2016.03 - 2017.04`
 
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+### 四川大学电子信息学院 图像所 `2014.03 - 2015.04`
 
 ## Honors & Awards
 Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
