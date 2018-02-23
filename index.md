@@ -30,9 +30,9 @@ pdf: true
 
 ## 科研经历
 
-### [__Dual-Modal Vision-based Tactile Sensor for Robotic Hand Grasping__]
-_Bin Fang, Fuchun Sun, __Chao Yang__ _<br> 
-_2018 IEEE International Conference on Robotics and Automation (ICRA2018)._<br>
+### __Dual-Modal Vision-based Tactile Sensor for Robotic Hand Grasping__
+Bin Fang, Fuchun Sun, __Chao Yang__<br> 
+2018 IEEE International Conference on Robotics and Automation (ICRA2018)._<br>
 
 ### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
 __Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
