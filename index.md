@@ -17,19 +17,17 @@ pdf: true
 
 ### __清华大学__ `2015.9 - 目前`
 ```
-北京
+北京.海淀
 ```
-- B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.97__
-- Vision, Graphics track
+- 硕士研究生  计算机科学与技术系
+- 主修课程：模式识别，智能控制，随机过程，高级机器学习
 
-### __Dickinson College__ `2013.9 - 2016.5`
+### __四川大学__ `2011.9 - 2015.6`
 ```
-Carlisle, PA
+四川.成都
 ```
-- B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.93__
-- Computer Science Departmental Honors
+- 本科  电子信息工程
+- 主修课程：自控原理，数据结构与算法分析，概率统计，数字电子技术，计算机通信与网络，
 
 ## Publications
 
