@@ -12,7 +12,7 @@ pdf: true
 <a href="yang-c15@mails.tsinghua.edu.cn" style="margin-left:0.5em">yang-c15@mails.tsinghua.edu.cn</a>
 </div>
 
-## 教育经历
+## Education
 
 ### __清华大学__ `2015.09 - 2018.06`
 ```
@@ -28,16 +28,16 @@ pdf: true
 - 本科  电子信息工程
 - 主修课程：自控原理，数据结构与算法分析，概率统计，数字电子技术，计算机通信与网络
 
-## 科研经历
+## Publications
 
 ### __Dual-Modal Vision-based Tactile Sensor for Robotic Hand Grasping__
-Bin Fang, Fuchun Sun, __Chao Yang__, 2018 IEEE International Conference on Robotics and Automation (ICRA2018).<br>
+Bin Fang, Fuchun Sun, __Chao Yang__, 2018 IEEE International Conference on Robotics and Automation (ICRA2018).
 
 ### __A Stable and Efficient Vision-based Tactile Sensor with Tactile Detection using Neural Network__
 __Chao Yang__, Fuchun Sun, Bin Fang, Luxuan Li, ICCSIP2016.
 
 ### __Robotic grasping using visual and tactile sensing__
-Di Guo, __Chao Yang__, ACM DL2017.
+Di Guo, Fuchun Sun, __Chao Yang__, ACM DL2017.
 
 ## Experience
 
@@ -54,12 +54,6 @@ _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
 
-## Teaching
-
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `DIckinson, 2014 - 2016` <br>
 
 
 ## Honors & Awards
