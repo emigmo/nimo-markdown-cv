@@ -3,7 +3,7 @@ layout: cv
 title: YangChao's CV
 pdf: true
 ---
-<font color=gray size=72>杨超</font> 
+<font size=72>杨超</font> 
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
