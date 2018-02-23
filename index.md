@@ -26,11 +26,11 @@ pdf: true
 四川.成都
 ```
 - 本科  电子信息工程
-- 主修课程：自控原理，数据结构与算法分析，概率统计，数字电子技术，计算机通信与网络，
+- 主修课程：自控原理，数据结构与算法分析，概率统计，数字电子技术，计算机通信与网络
 
 ## Publications
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+### [__Substance and Style: domain-specific languages for mathematical diagrams__]
 __Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
 [[PDF](assets/dsldi.pdf)]
 [[slides](assets/dsldi-presentation.pdf)]
