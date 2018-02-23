@@ -53,18 +53,10 @@ Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augument
 _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
-
-
-
 ## Honors & Awards
-
 Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
 Computer Science Departmental Honor `DIckinson, 2016` <br>
 Pi Mu Epsilon, Mathematics Honor Society `DIckinson, 2016` <br>
 Upsilon Pi Epsilon, Computer Science Honor Society  `DIckinson, 2016` <br>
 Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
 John Montgomery Scholarship `DIckinson, 2013` <br>
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
