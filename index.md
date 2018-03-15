@@ -29,15 +29,16 @@ pdf: true
 ## 发表论文
 
 ### __A Dual-Modal Vision-based Tactile Sensor for Robotic Hand Grasping__
-Bin Fang\*, Fuchun Sun, __Chao Yang__\*, et al. ICRA2018.
+Bin Fang\*, Fuchun Sun, __Chao Yang__\*, et al. ICRA 2018.
 
 ### __Robot Grasp Trajectory Generation by using Reinforcement Learning__
-__Chao Yang__, Fuchun Sun, Borui Li, Bin Fang, Huaping Liu. IROS2018(under review)
+__Chao Yang__, Fuchun Sun, Borui Li, Bin Fang, Huaping Liu. IROS 2018 (Under Review).
+
 ### [__Robotic grasping using visual and tactile sensing__](https://www.sciencedirect.com/science/article/pii/S002002551730837X)
-Di Guo, Fuchun Sun, __Chao Yang__, et al. Information Sciences 2017.
+Di Guo, Fuchun Sun, __Chao Yang__, et al. Information Sciences 417 (2017): 274-286.
 
 ### [__A Stable and Efficient Vision-based Tactile Sensor with Tactile Detection using Neural Network__](https://link.springer.com/chapter/10.1007/978-981-10-5230-9_34)
-__Chao Yang__, Fuchun Sun, Bin Fang, et al. ICCSIP2016.
+__Chao Yang__, Fuchun Sun, Bin Fang, et al. International Conference on Cognitive Systems and Signal Processing. Springer, Singapore, 2016.
 
 ## 个人经历
 
