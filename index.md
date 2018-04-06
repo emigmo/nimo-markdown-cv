@@ -34,7 +34,7 @@ Bin Fang\*, Fuchun Sun, __Chao Yang__\*, et al. ICRA 2018.
 ### __Robot Grasp Trajectory Generation by using Reinforcement Learning__
 __Chao Yang__, Fuchun Sun, Borui Li, Bin Fang, Huaping Liu. IROS 2018 (Under Review).
 
-### __Robotic grasping using visual and tactile sensing__ [Paper Link](https://www.sciencedirect.com/science/article/pii/S002002551730837X)
+### __Robotic grasping using visual and tactile sensing__ [[Paper Link]](https://www.sciencedirect.com/science/article/pii/S002002551730837X)
 Di Guo, Fuchun Sun, __Chao Yang__, et al. Information Sciences 417 (2017): 274-286.
 
 ### __Learning to Detect Slip for Stable Grasping__ [Paper Link](http://ieeexplore.ieee.org/document/8324455/)
@@ -54,7 +54,7 @@ __Chao Yang__, Fuchun Sun, Bin Fang, et al. International Conference on Cognitiv
 ## 获奖与荣誉
 IROS2017国际机器人抓取与操作比赛 [Website](http://www.rhgm.org/activities/competition_iros2017/)  Service	Robotics	Track 第三名 [Link](http://www.rhgm.org/activities/competition_iros2017/2017_IROS_comp_low_res.pdf) `加拿大温哥华, 2017.09` <br>
 清华三菱重工奖学金 `清华大学, 2016.10` <br>
-IROS2016国际机器人抓取与操作比赛[Website](http://www.rhgm.org/activities/competition_iros2016/) 全自主操作组 冠军 [Link](http://www.rhgm.org/activities/competition_iros2016/competition_iros_summary.pdf)  [清华新闻](http://news.tsinghua.edu.cn/publish/thunews/9659/2016/20161026134903594198295/20161026134903594198295_.html?open_source=weibo_search) `韩国, 2016.10` <br> 
-天池菜鸟物流竞赛 32/2810名 `阿里, 2016.06` <br>
+IROS2016国际机器人抓取与操作比赛 [Website](http://www.rhgm.org/activities/competition_iros2016/) 全自主操作组 冠军 [Link](http://www.rhgm.org/activities/competition_iros2016/competition_iros_summary.pdf)  [清华新闻](http://news.tsinghua.edu.cn/publish/thunews/9659/2016/20161026134903594198295/20161026134903594198295_.html?open_source=weibo_search) `韩国, 2016.10` <br> 
+天池菜鸟物流竞赛 [Website](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231530) 32/2810名 `阿里, 2016.06` <br>
 四川大学优秀毕业生 `四川大学, 2015.06` <br>
 本科期间连续三年获得国家奖学金 1/199  `四川大学, 2012-2014` <br>
