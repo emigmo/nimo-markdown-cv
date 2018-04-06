@@ -52,7 +52,9 @@ __Chao Yang__, Fuchun Sun, Bin Fang, et al. International Conference on Cognitiv
 ### __四川大学电子信息学院　　图像所__ `2014.03 - 2015.04`
         在此本科期间，与同学合作参加Intel国际嵌入式邀请赛，完成自动聚焦的生物光学显微镜的研制，设计了一套针对血细胞样本的自动对焦算法获得国际三等奖，参与全国电子设计大赛，设计的射频宽带放大电路获得了四川省一等奖的成绩，并成功以全系第一名的成绩推免清华大学计算机系读研。
 ## 获奖与荣誉
+IROS2017国际机器人抓取与操作比赛 [Website](http://www.rhgm.org/activities/competition_iros2017/)  Service	Robotics	Track 第三名 [Link](http://www.rhgm.org/activities/competition_iros2017/2017_IROS_comp_low_res.pdf) `加拿大温哥华, 2017.09` <br>
 清华三菱重工奖学金 `清华大学, 2016.10` <br>
-IROS2016国际机器人抓取与操作比赛 全自主操作组 冠军 `韩国, 2016.10` <br>
+IROS2016国际机器人抓取与操作比赛[Website](http://www.rhgm.org/activities/competition_iros2016/) 全自主操作组 冠军 [Link](http://www.rhgm.org/activities/competition_iros2016/competition_iros_summary.pdf)  [清华新闻](http://news.tsinghua.edu.cn/publish/thunews/9659/2016/20161026134903594198295/20161026134903594198295_.html?open_source=weibo_search) `韩国, 2016.10` <br> 
 天池菜鸟物流竞赛 32/2810名 `阿里, 2016.06` <br>
+四川大学优秀毕业生 `四川大学, 2015.06` <br>
 本科期间连续三年获得国家奖学金 1/199  `四川大学, 2012-2014` <br>
