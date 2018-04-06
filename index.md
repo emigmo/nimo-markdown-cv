@@ -37,7 +37,7 @@ __Chao Yang__, Fuchun Sun, Borui Li, Bin Fang, Huaping Liu. IROS 2018 (Under Rev
 ### [__Robotic grasping using visual and tactile sensing__](https://www.sciencedirect.com/science/article/pii/S002002551730837X)
 Di Guo, Fuchun Sun, __Chao Yang__, et al. Information Sciences 417 (2017): 274-286.
 
-### __Learning to Detect Slip for Stable Grasping__
+### [__Learning to Detect Slip for Stable Grasping__](http://ieeexplore.ieee.org/document/8324455/)
 Luxuan Li, Fuchun Sun, Bin Fang, __Chao Yang__, et al. ROBIO 2017.
 
 ### [__A Stable and Efficient Vision-based Tactile Sensor with Tactile Detection using Neural Network__](https://link.springer.com/chapter/10.1007/978-981-10-5230-9_34)
