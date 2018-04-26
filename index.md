@@ -32,11 +32,14 @@ pdf: true
 ### __A Dual-Modal Vision-based Tactile Sensor for Robotic Hand Grasping__
 Bin Fang\*, Fuchun Sun, __Chao Yang__\*, et al. ICRA 2018.
 
+### __Adaptive Adversarial Transfer Learning for Electroencephalography Classification__
+Tan Chuanqi, Sun Fuchun, Zhang Wenchang, Kong Tao, __Yang Chao__ and Zhang Xinyu. IJCNN 2018.
+
 ### __Robot Grasp Trajectory Generation by using Reinforcement Learning__
 __Chao Yang__, Fuchun Sun, Borui Li, Bin Fang, Huaping Liu. IROS 2018 (Under Review).
 
 ### __Robotic grasping using visual and tactile sensing__ [[Paper Link]](https://www.sciencedirect.com/science/article/pii/S002002551730837X)
-Di Guo, Fuchun Sun, __Chao Yang__, et al. Information Sciences 417 (2017): 274-286.
+Di Guo, Fuchun Sun, Bin Fang, __Chao Yang__, et al. Information Sciences 417 (2017): 274-286.
 
 ### __Learning to Detect Slip for Stable Grasping__ [[Paper Link]](http://ieeexplore.ieee.org/document/8324455/)
 Luxuan Li, Fuchun Sun, Bin Fang, __Chao Yang__, et al. ROBIO 2017.
