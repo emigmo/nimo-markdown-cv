@@ -42,9 +42,6 @@ Bin Fang\*, Fuchun Sun, __Chao Yang__\*, et al. ICRA 2018.
 ### __Adaptive Adversarial Transfer Learning for Electroencephalography Classification__
 Tan Chuanqi, Sun Fuchun, Zhang Wenchang, Kong Tao, __Yang Chao__ and Zhang Xinyu. IJCNN 2018.
 
-### __Robot Grasp Trajectory Generation by using Reinforcement Learning__
-__Chao Yang__, Fuchun Sun, Borui Li, Bin Fang, Huaping Liu. IROS 2018 (Under Review).
-
 ### __Robotic grasping using visual and tactile sensing__ [[Paper Link]](https://www.sciencedirect.com/science/article/pii/S002002551730837X)
 Di Guo, Fuchun Sun, Bin Fang, __Chao Yang__, et al. Information Sciences 417 (2017): 274-286.
 
@@ -69,7 +66,6 @@ __Chao Yang__, Fuchun Sun, Bin Fang, et al. International Conference on Cognitiv
 - 天池菜鸟物流竞赛[[Website]](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231530) 32/2810名 `阿里, 2016.06` <br>
 - 四川大学优秀本科毕业生 `四川大学, 2015.06` <br>
 - 本科期间连续三年获得国家奖学金 1/199  `四川大学, 2012-2014` <br>
-
 <br />
 <br />
 <br />
