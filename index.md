@@ -35,8 +35,8 @@ pdf: true
 
 ## 发表论文
 
-### __Goal-Driven Imitation Leaning for Robotic Multi-Path Manipulation Learning__
-__Chao Yang__\*, Fuchun Sun, Jie Zhou\*, et, al. CoRL 2018.(Under Review)
+### __ Novel Perception Method for Simultaneous Recognition of Texture and Temperature__
+__Chao Yang__\*, Fuchun Sun, et, al. ICRA 2019.(Under Review)
 
 ### __A Dual-Modal Vision-based Tactile Sensor for Robotic Hand Grasping__
 Bin Fang\*, Fuchun Sun, __Chao Yang__\*, et al. ICRA 2018.
