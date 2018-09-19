@@ -35,7 +35,7 @@ pdf: true
 
 ## 发表论文
 
-### __ Novel Perception Method for Simultaneous Recognition of Texture and Temperature__
+### __Novel Perception Method for Simultaneous Recognition of Texture and Temperature__
 __Chao Yang__\*, Fuchun Sun, et, al. ICRA 2019.(Under Review)
 
 ### __A Dual-Modal Vision-based Tactile Sensor for Robotic Hand Grasping__
