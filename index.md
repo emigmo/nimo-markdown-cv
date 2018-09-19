@@ -38,8 +38,8 @@ pdf: true
 ### __A Novel Perception Method for Simultaneous Recognition of Texture and Temperature__
 __Chao Yang__\*, Fuchun Sun, et, al. ICRA 2019.(Under Review)
 
-### __A Dual-Modal Vision-based Tactile Sensor for Robotic Hand Grasping__ [[Paper Link]]
-(https://ieeexplore.ieee.org/abstract/document/8461007/)
+### __A Dual-Modal Vision-based Tactile Sensor for Robotic Hand Grasping__ [[Paper Link]](https://ieeexplore.ieee.org/abstract/document/8461007/)
+
 
 Bin Fang\*, Fuchun Sun, __Chao Yang__\*, et al. ICRA 2018.
 
