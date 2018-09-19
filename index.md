@@ -8,7 +8,7 @@ pdf: true
 <i class="fi-home" style="margin-left:1em"></i>
 <a href="https://emigmo.github.io/yc-markdown-cv/" style="margin-left:0.5em">emigmo.github.io/yc-markdown-cv/</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="yang-c15@mails.tsinghua.edu.cn" style="margin-left:0.5em">yang-c15@mails.tsinghua.edu.cn</a>
+<a href="yangchao18@mails.tsinghua.edu.cn" style="margin-left:0.5em">yang-c15@mails.tsinghua.edu.cn</a>
 </div>
 
 ## 教育经历
